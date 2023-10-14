@@ -1,5 +1,3 @@
-Removing the ASCII code.                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                     
 To use in Linux
 
 netstat -ant > ip.txt
