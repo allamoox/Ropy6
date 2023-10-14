@@ -1,0 +1,163 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           Offload State
+
+  TCP    0.0.0.0:25             0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:110            0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:143            0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:587            0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49672          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49673          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:57530          0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:5939         0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:5939         127.0.0.1:17865        ESTABLISHED     InHost      
+  TCP    127.0.0.1:6463         0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:14572        127.0.0.1:14573        ESTABLISHED     InHost      
+  TCP    127.0.0.1:14573        127.0.0.1:14572        ESTABLISHED     InHost      
+  TCP    127.0.0.1:15713        127.0.0.1:15714        ESTABLISHED     InHost      
+  TCP    127.0.0.1:15714        127.0.0.1:15713        ESTABLISHED     InHost      
+  TCP    127.0.0.1:17865        127.0.0.1:5939         ESTABLISHED     InHost      
+  TCP    127.0.0.1:17876        127.0.0.1:17877        ESTABLISHED     InHost      
+  TCP    127.0.0.1:17877        127.0.0.1:17876        ESTABLISHED     InHost      
+  TCP    192.168.31.96:139      0.0.0.0:0              LISTENING       InHost      
+  TCP    192.168.31.96:3853     82.96.96.60:6667       ESTABLISHED     InHost      
+  TCP    192.168.31.96:3854     81.169.250.164:6697    ESTABLISHED     InHost      
+  TCP    192.168.31.96:8658     0.0.0.0:0              LISTENING       InHost      
+  TCP    192.168.31.96:8659     0.0.0.0:0              LISTENING       InHost      
+  TCP    192.168.31.96:8660     0.0.0.0:0              LISTENING       InHost      
+  TCP    192.168.31.96:8663     0.0.0.0:0              LISTENING       InHost      
+  TCP    192.168.31.96:8664     0.0.0.0:0              LISTENING       InHost      
+  TCP    192.168.31.96:9812     20.54.36.229:443       ESTABLISHED     InHost      
+  TCP    192.168.31.96:11820    52.98.149.178:443      ESTABLISHED     InHost      
+  TCP    192.168.31.96:12589    81.169.250.164:19198   ESTABLISHED     InHost      
+  TCP    192.168.31.96:12689    20.54.37.73:443        ESTABLISHED     InHost      
+  TCP    192.168.31.96:13899    149.154.167.91:443     ESTABLISHED     InHost      
+  TCP    192.168.31.96:16553    31.13.72.6:443         ESTABLISHED     InHost      
+  TCP    192.168.31.96:16583    31.13.72.8:443         ESTABLISHED     InHost      
+  TCP    192.168.31.96:16729    31.13.72.8:443         ESTABLISHED     InHost      
+  TCP    192.168.31.96:16767    185.233.7.153:443      ESTABLISHED     InHost      
+  TCP    192.168.31.96:16768    92.223.127.150:443     ESTABLISHED     InHost      
+  TCP    192.168.31.96:16770    84.16.253.95:443       ESTABLISHED     InHost      
+  TCP    192.168.31.96:17174    23.13.47.55:443        ESTABLISHED     InHost      
+  TCP    192.168.31.96:17177    52.98.149.162:443      ESTABLISHED     InHost      
+  TCP    192.168.31.96:17226    31.13.72.6:443         ESTABLISHED     InHost      
+  TCP    192.168.31.96:17244    51.140.202.63:443      ESTABLISHED     InHost      
+  TCP    192.168.31.96:17363    192.168.31.203:3389    ESTABLISHED     InHost      
+  TCP    192.168.31.96:17643    149.154.167.91:443     ESTABLISHED     InHost      
+  TCP    192.168.31.96:17726    31.13.72.54:443        ESTABLISHED     InHost      
+  TCP    192.168.31.96:17867    37.252.247.104:5938    ESTABLISHED     InHost      
+  TCP    192.168.31.96:17917    192.168.31.241:22      ESTABLISHED     InHost      
+  TCP    192.168.31.96:17991    20.54.37.73:443        ESTABLISHED     InHost      
+  TCP    192.168.31.96:18001    52.112.238.252:443     ESTABLISHED     InHost      
+  TCP    192.168.31.96:18011    52.112.238.116:443     ESTABLISHED     InHost      
+  TCP    192.168.31.96:18252    5.44.104.158:143       ESTABLISHED     InHost      
+  TCP    192.168.31.96:18283    162.159.133.234:443    ESTABLISHED     InHost      
+  TCP    192.168.31.96:18404    20.50.2.7:443          CLOSE_WAIT      InHost      
+  TCP    192.168.31.96:18427    31.13.72.8:443         ESTABLISHED     InHost      
+  TCP    192.168.31.96:18438    108.157.214.55:443     ESTABLISHED     InHost      
+  TCP    192.168.31.96:18542    104.18.12.33:443       ESTABLISHED     InHost      
+  TCP    192.168.31.96:18577    140.82.112.26:443      ESTABLISHED     InHost      
+  TCP    192.168.31.96:18594    152.199.19.161:443     CLOSE_WAIT      InHost      
+  TCP    192.168.31.96:18596    23.218.92.90:443       CLOSE_WAIT      InHost      
+  TCP    192.168.31.96:18609    31.13.72.6:443         ESTABLISHED     InHost      
+  TCP    192.168.31.96:18610    20.189.173.8:443       TIME_WAIT       InHost      
+  TCP    192.168.31.96:18613    209.197.3.8:80         ESTABLISHED     InHost      
+  TCP    192.168.31.96:18614    23.32.99.125:80        ESTABLISHED     InHost      
+  TCP    192.168.31.96:18615    23.32.99.125:80        ESTABLISHED     InHost      
+  TCP    192.168.31.96:18616    20.54.232.160:443      ESTABLISHED     InHost      
+  TCP    192.168.31.96:18617    5.44.104.158:443       CLOSE_WAIT      InHost      
+  TCP    192.168.31.96:18618    5.44.104.158:443       CLOSE_WAIT      InHost      
+  TCP    192.168.56.1:139       0.0.0.0:0              LISTENING       InHost      
+  TCP    192.168.56.1:8665      0.0.0.0:0              LISTENING       InHost      
+  TCP    192.168.56.1:8666      0.0.0.0:0              LISTENING       InHost      
+  TCP    [::]:135               [::]:0                 LISTENING       InHost      
+  TCP    [::]:445               [::]:0                 LISTENING       InHost      
+  TCP    [::]:3389              [::]:0                 LISTENING       InHost      
+  TCP    [::]:7680              [::]:0                 LISTENING       InHost      
+  TCP    [::]:49664             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49665             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49666             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49667             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49668             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49672             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49673             [::]:0                 LISTENING       InHost      
+  TCP    [::1]:42050            [::]:0                 LISTENING       InHost      
+  UDP    0.0.0.0:500            *:*                                                
+  UDP    0.0.0.0:3389           *:*                                                
+  UDP    0.0.0.0:3702           *:*                                                
+  UDP    0.0.0.0:3702           *:*                                                
+  UDP    0.0.0.0:4500           *:*                                                
+  UDP    0.0.0.0:5050           *:*                                                
+  UDP    0.0.0.0:5353           *:*                                                
+  UDP    0.0.0.0:5353           *:*                                                
+  UDP    0.0.0.0:5353           *:*                                                
+  UDP    0.0.0.0:5355           *:*                                                
+  UDP    0.0.0.0:49667          *:*                                                
+  UDP    0.0.0.0:51392          *:*                                                
+  UDP    0.0.0.0:53664          *:*                                                
+  UDP    0.0.0.0:56030          *:*                                                
+  UDP    0.0.0.0:58425          *:*                                                
+  UDP    0.0.0.0:59867          *:*                                                
+  UDP    127.0.0.1:1900         *:*                                                
+  UDP    127.0.0.1:49666        *:*                                                
+  UDP    127.0.0.1:52301        *:*                                                
+  UDP    127.0.0.1:55132        *:*                                                
+  UDP    127.0.0.1:64976        *:*                                                
+  UDP    192.168.31.96:137      *:*                                                
+  UDP    192.168.31.96:138      *:*                                                
+  UDP    192.168.31.96:1900     *:*                                                
+  UDP    192.168.31.96:2177     *:*                                                
+  UDP    192.168.31.96:5353     *:*                                                
+  UDP    192.168.31.96:5353     *:*                                                
+  UDP    192.168.31.96:49633    *:*                                                
+  UDP    192.168.31.96:49634    *:*                                                
+  UDP    192.168.31.96:49635    *:*                                                
+  UDP    192.168.31.96:52300    *:*                                                
+  UDP    192.168.31.96:65124    *:*                                                
+  UDP    192.168.56.1:137       *:*                                                
+  UDP    192.168.56.1:138       *:*                                                
+  UDP    192.168.56.1:1900      *:*                                                
+  UDP    192.168.56.1:2177      *:*                                                
+  UDP    192.168.56.1:5353      *:*                                                
+  UDP    192.168.56.1:52299     *:*                                                
+  UDP    192.168.56.1:64677     *:*                                                
+  UDP    192.168.56.1:64678     *:*                                                
+  UDP    [::]:500               *:*                                                
+  UDP    [::]:3389              *:*                                                
+  UDP    [::]:3702              *:*                                                
+  UDP    [::]:3702              *:*                                                
+  UDP    [::]:4500              *:*                                                
+  UDP    [::]:5353              *:*                                                
+  UDP    [::]:5353              *:*                                                
+  UDP    [::]:5355              *:*                                                
+  UDP    [::]:49668             *:*                                                
+  UDP    [::]:51393             *:*                                                
+  UDP    [::]:53665             *:*                                                
+  UDP    [::]:56030             *:*                                                
+  UDP    [::]:58425             *:*                                                
+  UDP    [::1]:1900             *:*                                                
+  UDP    [::1]:5353             *:*                                                
+  UDP    [::1]:5353             *:*                                                
+  UDP    [::1]:52298            *:*                                                
+  UDP    [fd26:d173:d76d:0:2cf2:38c5:389b:de04]:2177  *:*                                                
+  UDP    [fd26:d173:d76d:0:44a8:3b08:f263:8cb]:2177  *:*                                                
+  UDP    [fd26:d173:d76d:0:a535:f699:9c54:79ef]:2177  *:*                                                
+  UDP    [fd26:d173:d76d:0:af2e:4888:b98b:de6c]:2177  *:*                                                
+  UDP    [fe80::4625:336:d269:7279%13]:1900  *:*                                                
+  UDP    [fe80::4625:336:d269:7279%13]:2177  *:*                                                
+  UDP    [fe80::4625:336:d269:7279%13]:52297  *:*                                                
+  UDP    [fe80::beff:1480:abcb:833c%49]:1900  *:*                                                
+  UDP    [fe80::beff:1480:abcb:833c%49]:2177  *:*                                                
+  UDP    [fe80::beff:1480:abcb:833c%49]:52296  *:*
